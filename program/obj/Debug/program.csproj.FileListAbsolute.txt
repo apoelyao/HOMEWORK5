@@ -1,0 +1,6 @@
+C:\Users\yaoyu\OneDrive\Desktop\C#\program\program\bin\Debug\program.exe.config
+C:\Users\yaoyu\OneDrive\Desktop\C#\program\program\bin\Debug\program.exe
+C:\Users\yaoyu\OneDrive\Desktop\C#\program\program\bin\Debug\program.pdb
+C:\Users\yaoyu\OneDrive\Desktop\C#\program\program\obj\Debug\program.csprojAssemblyReference.cache
+C:\Users\yaoyu\OneDrive\Desktop\C#\program\program\obj\Debug\program.exe
+C:\Users\yaoyu\OneDrive\Desktop\C#\program\program\obj\Debug\program.pdb
